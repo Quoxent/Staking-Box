@@ -1,4 +1,4 @@
-# Vulcano-Staking-Install
+# Vulcano-Staking-Box
 
 ## Disclaimer
 
