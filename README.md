@@ -34,7 +34,7 @@ After the reboot, you can log in with the new account and activate staking.
 To get started, run this script:
 
 ```bash
-bash <( curl https://raw.githubusercontent.com/vulcanocrypto/Vulcano-Staking-Install/master/setup.sh )
+bash <( curl https://raw.githubusercontent.com/vulcanocrypto/Staking-Box/master/setup.sh )
 ```
 
 ## Generating an SSH key (Optional)
@@ -77,7 +77,7 @@ While this looks alarming, it is not dangerous (in this case). Here's how to get
 
 Most issues with the wallet can be resolved by running the below:
 
-`curl https://raw.githubusercontent.com/vulcanocrypto/Vulcano-Staking-Install/master/refresh.sh | sudo bash`
+`curl https://raw.githubusercontent.com/vulcanocrypto/Staking-Box/master/refresh.sh | sudo bash`
 
 This is like a "factory reset" button.
 
@@ -85,7 +85,7 @@ This is like a "factory reset" button.
 
 To update your wallet to the latest version of Vulcano, please run the below:
 
-`curl https://raw.githubusercontent.com/vulcano-crypto/Vulcano-Staking-Install/master/update.sh | sudo bash`
+`curl https://raw.githubusercontent.com/vulcano-crypto/Staking-Box/master/update.sh | sudo bash`
 
 ## Troubleshooting
 
